@@ -28,8 +28,8 @@ Creating my first ever QR code file
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Anshumankhanna/QR-code
+- Live Site URL: https://anshumankhanna.github.io/QR-code/
 
 ## My process
 
