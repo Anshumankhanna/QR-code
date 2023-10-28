@@ -16,6 +16,7 @@ body {
     width: 271px;
     margin: 177px auto auto;
     padding: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
 }
 
 .qr-space div {
@@ -50,7 +51,11 @@ body {
     color: gray;
 }
 
-.attribution { font-size: 11px; text-align: center; }
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 20px;
+}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 @font-face {
