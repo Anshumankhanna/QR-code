@@ -21,8 +21,8 @@ Creating my first ever QR code file
 
 ### Screenshot
 
-![Alt text](Desktop-view-capture-1.png)
-![Alt text](Mobile-view-capture-1.png)
+![Desktop View](Desktop-view-capture-1.png)
+![Mobile View](Mobile-view-capture-1.png)
 
 <!-- Taken using Go Full Page chrome extension -->
 
